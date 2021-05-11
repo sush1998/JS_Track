@@ -1,4 +1,4 @@
-body
+#container-fluid
 {
     background-color: black;
     color: white;
@@ -6,5 +6,8 @@ body
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:100vh;
+}
+.nav
+{
+    color: white;
 }
